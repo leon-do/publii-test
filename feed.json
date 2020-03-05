@@ -10,6 +10,35 @@
     },
     "items": [
         {
+            "id": "https://leon-do.github.io/publii-test/mypost2.html",
+            "url": "https://leon-do.github.io/publii-test/mypost2.html",
+            "title": "myPost2",
+            "summary": "this has tags random search word: bicycle",
+            "content_html": "<p>this has tags </p>\n<p>random search word: bicycle</p>",
+            "author": {
+                "name": "leon"
+            },
+            "tags": [
+                   "mytag0"
+            ],
+            "date_published": "2020-03-05T17:08:02-05:00",
+            "date_modified": "2020-03-05T17:09:00-05:00"
+        },
+        {
+            "id": "https://leon-do.github.io/publii-test/mypost1.html",
+            "url": "https://leon-do.github.io/publii-test/mypost1.html",
+            "title": "myPost1",
+            "summary": "myContent1",
+            "content_html": "myContent1\n<figure class=\"post__image\"><img src=\"https://leon-do.github.io/publii-test/media/posts/2/Screen-Shot-2020-03-05-at-5.03.58-PM.png\" alt=\"\" width=\"747\" height=\"429\"></figure>",
+            "author": {
+                "name": "leon"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-03-05T17:04:04-05:00",
+            "date_modified": "2020-03-05T17:04:04-05:00"
+        },
+        {
             "id": "https://leon-do.github.io/publii-test/mypost0.html",
             "url": "https://leon-do.github.io/publii-test/mypost0.html",
             "title": "myPost0",

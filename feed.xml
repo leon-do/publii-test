@@ -3,12 +3,55 @@
     <title>publii-test</title>
     <link href="https://leon-do.github.io/publii-test/feed.xml" rel="self" />
     <link href="https://leon-do.github.io/publii-test" />
-    <updated>2020-03-05T17:01:12-05:00</updated>
+    <updated>2020-03-05T17:11:33-05:00</updated>
     <author>
         <name>leon</name>
     </author>
     <id>https://leon-do.github.io/publii-test</id>
 
+    <entry>
+        <title>myPost2</title>
+        <author>
+            <name>leon</name>
+        </author>
+        <link href="https://leon-do.github.io/publii-test/mypost2.html"/>
+        <id>https://leon-do.github.io/publii-test/mypost2.html</id>
+            <category term="mytag0"/>
+
+        <updated>2020-03-05T17:09:00-05:00</updated>
+            <summary>
+                <![CDATA[
+                    this has tags random search word: bicycle
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>this has tags </p>
+<p>random search word: bicycle</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>myPost1</title>
+        <author>
+            <name>leon</name>
+        </author>
+        <link href="https://leon-do.github.io/publii-test/mypost1.html"/>
+        <id>https://leon-do.github.io/publii-test/mypost1.html</id>
+
+        <updated>2020-03-05T17:04:04-05:00</updated>
+            <summary>
+                <![CDATA[
+                    myContent1
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                myContent1
+<figure class="post__image"><img src="https://leon-do.github.io/publii-test/media/posts/2/Screen-Shot-2020-03-05-at-5.03.58-PM.png" alt="" width="747" height="429"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>myPost0</title>
         <author>
