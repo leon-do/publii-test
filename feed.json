@@ -42,15 +42,15 @@
             "id": "https://leon-do.github.io/publii-test/mypost0.html",
             "url": "https://leon-do.github.io/publii-test/mypost0.html",
             "title": "myPost0",
-            "summary": "myContent0",
-            "content_html": "myContent0",
+            "summary": "myContent0 more content here and more and more",
+            "content_html": "<p>myContent0</p>\n<p>more content here</p>\n<p>and more</p>\n<p>and</p>\n<p>more</p>",
             "author": {
                 "name": "leon"
             },
             "tags": [
             ],
             "date_published": "2020-03-05T16:52:47-05:00",
-            "date_modified": "2020-03-05T16:52:47-05:00"
+            "date_modified": "2020-03-05T17:17:28-05:00"
         }
     ]
 }
