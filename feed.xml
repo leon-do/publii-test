@@ -3,10 +3,30 @@
     <title>publii-test</title>
     <link href="https://leon-do.github.io/publii-test/feed.xml" rel="self" />
     <link href="https://leon-do.github.io/publii-test" />
-    <updated>1969-12-31T19:00:00-05:00</updated>
+    <updated>2020-03-05T17:01:12-05:00</updated>
     <author>
         <name>leon</name>
     </author>
     <id>https://leon-do.github.io/publii-test</id>
 
+    <entry>
+        <title>myPost0</title>
+        <author>
+            <name>leon</name>
+        </author>
+        <link href="https://leon-do.github.io/publii-test/mypost0.html"/>
+        <id>https://leon-do.github.io/publii-test/mypost0.html</id>
+
+        <updated>2020-03-05T16:52:47-05:00</updated>
+            <summary>
+                <![CDATA[
+                    myContent0
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                myContent0
+            ]]>
+        </content>
+    </entry>
 </feed>
