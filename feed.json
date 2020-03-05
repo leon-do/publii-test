@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "publii-test",
+    "description": "",
+    "home_page_url": "https://leon-do.github.io/publii-test",
+    "feed_url": "https://leon-do.github.io/publii-test/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "leon"
+    },
+    "items": [
+    ]
+}
